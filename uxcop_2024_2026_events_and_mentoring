@@ -1,0 +1,21 @@
+Type,Year,Date,Month,SessionType,Cohort,Title,Speakers,TotalParticipants,ProvideMentoring,ReceiveMentoring,PeerToPeer,Attendees
+Mentoring,2024,,,,Cohort I,UX CoP Mentoring Cohort I,,32,12,12,8,
+Mentoring,2025,,,,Cohort II,UX CoP Mentoring Cohort II,,26,9,9,8,
+Mentoring,2026,,,,Cohort III,UX CoP Mentoring Cohort III,,42,16,16,8,
+Event,2026,1/21/2026,Jan,CoP Meeting,,OneConnect - Reaching NG’s Hard-to-Reach Audience: Lessons on Balancing Competing Requirements with the Ideal User Experience,Candice Lanius,,,,,46
+Event,2026,2/18/2026,Feb,CoP Meeting,,Satellite Ground Stations: The Need for Additional Research and Standardization,Megan Mitchell,,,,,44
+Event,2026,3/18/2026,Mar,CoP Meeting,,MS Skill Path,Sarah Hysell; Karthika Jayaprakash,,,,,TBD
+Event,2026,4/22/2026,Apr,Networking + Mentoring,,Networking Brew Crew Kickoff / Introduce Mentoring,Robin; Kristina; Kat; Susan,,,,,33
+Event,2026,5/13/2026,May,CoP Meeting,,AI at NG: How AI is Changing the Way We Build Software in NG,Chris Archer,,,,,63
+Event,2026,5/21/2026,May,Creative Sip,,Creative Sip 1,Kat LoScalzo; Susan Broderick,,,,,12
+Event,2026,6/1/2026,Jun,Program Status,,Summer Break,,,,,,TBD
+Event,2026,6/11/2026,Jun,Creative Sip,,Creative Sip 2,Kat LoScalzo; Susan Broderick,,,,,12
+Event,2026,7/9/2026,Jul,Creative Sip,,Creative Sip 3,Kat LoScalzo; Susan Broderick,,,,,14
+Event,2026,7/15/2026,Jul,CoP Meeting,,Integrating UX into Systems Engineering,Robin Potts; Lane Lynn,,,,,64
+Event,2026,7/20/2026,Jul,Networking / Mentoring,,Networking Cohort III Kickoff,Robin Potts; Kristina Noriega,,,,,28
+Event,2026,8/13/2026,Aug,Creative Sip,,Creative Sip 4,Kat LoScalzo; Susan Broderick,,,,,13
+Event,2026,8/26/2026,Aug,CoP Meeting,,From Pain Points to Progress: How cUX Elevates UX in Classified Networks and Solutions,Sarah Barnes; Nicole Gaughan; Aaliyah Maynie; Jermeria Arrington; Vanessa Ortiz,,,,,37
+Event,2026,9/16/2026,Sep,CoP Meeting,,OASIS 2.0: Elevating Success Through User‑Centric Design,Monique Kitts; Matt Miller; Layne Karafantis,,,,,
+Event,2026,10/22/2026,Oct,CoP Meeting,,NASA Sonic Boom Display – Breaking the “Noise” Barrier,Laura Smith‑Velazquez,,,,,
+Event,2026,11/1/2026,Nov,(TBD),,,,,,,,
+Event,2026,12/1/2026,Dec,(TBD),,,,,,,,
